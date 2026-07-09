@@ -1,1 +1,2 @@
 hi am sample file for GIT HUB
+THIS IS THE TEXT2.
